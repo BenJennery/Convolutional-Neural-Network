@@ -7,7 +7,9 @@ $link-color: #3aafa9;
 
 @import "jekyll-theme-cayman";
 
-
+.page-header .btn {
+  display: none !important;
+}
 
 /* Modern Responsive Project Grid */
 .project-grid {
